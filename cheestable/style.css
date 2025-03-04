@@ -1,0 +1,801 @@
+body{
+    display:flexbox;
+    width: 100%;
+    height: 100%;
+}
+.patrat1{
+    width: 100px;
+    height: 100px;
+    background-color: #ffffff;
+    float: left;
+}
+.patrat2{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: white;
+    background-image: url(/cheestable/a.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 50px;
+    
+}
+.patrat3{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: white;
+    background-image: url(/cheestable/b.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 50px;
+    
+}
+.patrat4{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: white;
+    background-image: url(/cheestable/c.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 50px;
+    
+}
+.patrat5{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: white;
+    background-image: url(/cheestable/d.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 50px;
+    
+}
+.patrat6{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: white;
+    background-image: url(/cheestable/e.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 50px;
+    
+}
+.patrat7{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: white;
+    background-image: url(/cheestable/f.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 50px;
+    
+}
+.patrat8{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: white;
+    background-image: url(/cheestable/g.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 50px;
+    
+}
+.patrat9{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: white;
+    background-image: url(/cheestable/h.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 50px;
+    
+}
+.patrat10{
+    width: 100px;
+    height: 100px;
+    background-color: #ffffff;
+    float: left;
+}
+
+.patrat11{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    background-image: url(/cheestable/h.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 50px;
+    
+}
+.patrat12{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: white;
+    background-image: url(/cheestable/1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 50px;
+}
+
+.patrat13{
+    width: 100px;
+    height: 100px;
+    background-color: #FFCE9C;
+    float: left;
+    background-image: url(/cheestable/turn.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 80px;
+}
+.patrat14{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: #D28C45;
+    background-image: url(/cheestable/cal.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 80px;
+}
+.patrat15{
+    width: 100px;
+    height: 100px;
+    background-color: #FFCE9C;
+    float: left;
+    background-image: url(/cheestable/nebun.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 80px;
+}
+.patrat16{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: #D28C45;
+    background-image: url(/cheestable/rege.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 80px;
+}
+.patrat17{
+    width: 100px;
+    height: 100px;
+    background-color: #FFCE9C;
+    float: left;
+    background-image: url(/cheestable/regina.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 80px;
+}
+.patrat18{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: #D28C45;
+    background-image: url(/cheestable/nebun.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 80px;
+
+}
+.patrat19{
+    width: 100px;
+    height: 100px;
+    background-color: #FFCE9C;
+    float: left;
+    background-image: url(/cheestable/cal.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 80px;
+}
+.patrat20{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: #D28C45;
+    background-image: url(/cheestable/turn.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 80px;
+}
+.patrat21{
+        width: 100px;
+        height: 100px;
+        background-color: #ffffff;
+        float: left;
+    }
+.patrat22{
+        width: 100px;
+        height: 100px;
+        background-color: #ffffff;
+}
+.patrat23{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: white;
+    background-image: url(/cheestable/2.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 50px;
+}
+.patrat24{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: #D28C45;
+    background-image: url(/cheestable/pion.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 80px;
+}
+.patrat25{
+    width: 100px;
+    height: 100px;
+    background-color: #FFCE9C;
+    float: left;
+    background-image: url(/cheestable/pion.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 80px;
+}
+.patrat26{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: #D28C45;
+    background-image: url(/cheestable/pion.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 80px;
+}
+.patrat27{
+    width: 100px;
+    height: 100px;
+    background-color: #FFCE9C;
+    float: left;
+    background-image: url(/cheestable/pion.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 80px;
+}
+.patrat28{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: #D28C45;
+    background-image: url(/cheestable/pion.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 80px;
+}
+.patrat29{
+    width: 100px;
+    height: 100px;
+    background-color: #FFCE9C;
+    float: left;
+    background-image: url(/cheestable/pion.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 80px;
+}
+.patrat30{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: #D28C45;
+    background-image: url(/cheestable/pion.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 80px;
+}
+.patrat31{
+    width: 100px;
+    height: 100px;
+    background-color: #FFCE9C;
+    float: left;
+    background-image: url(/cheestable/pion.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 80px;
+}
+.patrat32{
+        width: 100px;
+        height: 100px;
+        background-color: #ffffff;
+        float: left;
+    }
+.patrat33{
+        width: 100px;
+        height: 100px;
+        background-color: #ffffff;
+}
+.patrat34{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: white;
+    background-image: url(/cheestable/3.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 50px;
+    
+}
+.patrat35{
+    width: 100px;
+    height: 100px;
+    background-color: #FFCE9C;
+    float: left;
+}
+.patrat36{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: #D28C45;
+}
+.patrat37{
+    width: 100px;
+    height: 100px;
+    background-color: #FFCE9C;
+    float: left;
+}
+.patrat38{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: #D28C45;
+}
+.patrat39{
+    width: 100px;
+    height: 100px;
+    background-color: #FFCE9C;
+    float: left;
+}
+.patrat40{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: #D28C45;
+}
+.patrat41{
+    width: 100px;
+    height: 100px;
+    background-color: #FFCE9C;
+    float: left;
+}
+.patrat42{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: #D28C45;
+}
+.patrat43{
+        width: 100px;
+        height: 100px;
+        background-color: #ffffff;
+        float: left;
+    }
+.patrat44{
+        width: 100px;
+        height: 100px;
+        background-color: #ffffff;
+}
+.patrat45{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: white;
+    background-image: url(/cheestable/4.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 50px;
+}
+.patrat46{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: #D28C45;
+}
+.patrat47{
+    width: 100px;
+    height: 100px;
+    background-color: #FFCE9C;
+    float: left;
+}
+.patrat48{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: #D28C45;
+}
+.patrat49{
+    width: 100px;
+    height: 100px;
+    background-color: #FFCE9C;
+    float: left;
+}
+.patrat50{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: #D28C45;
+}
+.patrat51{
+    width: 100px;
+    height: 100px;
+    background-color: #FFCE9C;
+    float: left;
+}
+.patrat52{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: #D28C45;
+}
+.patrat53{
+    width: 100px;
+    height: 100px;
+    background-color: #FFCE9C;
+    float: left;
+}
+.patrat54{
+        width: 100px;
+        height: 100px;
+        background-color: #ffffff;
+        float: left;
+    }
+.patrat55{
+        width: 100px;
+        height: 100px;
+        background-color: #ffffff;
+}
+.patrat56{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: white;
+    background-image: url(/cheestable/5.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 50px;
+}
+
+.patrat57{
+    width: 100px;
+    height: 100px;
+    background-color: #FFCE9C;
+    float: left;
+}
+.patrat58{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: #D28C45;
+}
+.patrat59{
+    width: 100px;
+    height: 100px;
+    background-color: #FFCE9C;
+    float: left;
+}
+.patrat60{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: #D28C45;
+}
+.patrat61{
+    width: 100px;
+    height: 100px;
+    background-color: #FFCE9C;
+    float: left;
+}
+.patrat62{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: #D28C45;
+}
+.patrat63{
+    width: 100px;
+    height: 100px;
+    background-color: #FFCE9C;
+    float: left;
+}
+.patrat64{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: #D28C45;
+}
+.patrat65{
+        width: 100px;
+        height: 100px;
+        background-color: #ffffff;
+        float: left;
+    }
+.patrat66{
+        width: 100px;
+        height: 100px;
+        background-color: #ffffff;
+}
+.patrat67{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: white;
+    background-image: url(/cheestable/6.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 50px;
+}
+.patrat68{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: #D28C45;
+}
+.patrat69{
+    width: 100px;
+    height: 100px;
+    background-color: #FFCE9C;
+    float: left;
+}
+.patrat70{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: #D28C45;
+}
+.patrat71{
+    width: 100px;
+    height: 100px;
+    background-color: #FFCE9C;
+    float: left;
+}
+.patrat72{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: #D28C45;
+}
+.patrat73{
+    width: 100px;
+    height: 100px;
+    background-color: #FFCE9C;
+    float: left;
+}
+.patrat74{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: #D28C45;
+}
+.patrat75{
+    width: 100px;
+    height: 100px;
+    background-color: #FFCE9C;
+    float: left;
+}
+.patrat76{
+        width: 100px;
+        height: 100px;
+        background-color: #ffffff;
+        float: left;
+    }
+.patrat77{
+        width: 100px;
+        height: 100px;
+        background-color: #ffffff;
+}
+.patrat78{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: white;
+    background-image: url(/cheestable/7.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 50px;
+    
+}
+.patrat79{
+    width: 100px;
+    height: 100px;
+    background-color: #FFCE9C;
+    float: left;
+    background-image: url(/cheestable/pion.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 80px;
+}
+.patrat80{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: #D28C45;
+    background-image: url(/cheestable/pion.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 80px;
+}
+.patrat81{
+    width: 100px;
+    height: 100px;
+    background-color: #FFCE9C;
+    float: left;
+    background-image: url(/cheestable/pion.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 80px;
+}
+.patrat82{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: #D28C45;
+    background-image: url(/cheestable/pion.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 80px;
+}
+.patrat83{
+    width: 100px;
+    height: 100px;
+    background-color: #FFCE9C;
+    float: left;
+    background-image: url(/cheestable/pion.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 80px;
+}
+.patrat84{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: #D28C45;
+    background-image: url(/cheestable/pion.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 80px;
+}
+.patrat85{
+    width: 100px;
+    height: 100px;
+    background-color: #FFCE9C;
+    float: left;
+    background-image: url(/cheestable/pion.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 80px;
+}
+.patrat86{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: #D28C45;
+    background-image: url(/cheestable/pion.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 80px;
+}
+.patrat87{
+        width: 100px;
+        height: 100px;
+        background-color: #ffffff;
+        float: left;
+    }
+.patrat88{
+        width: 100px;
+        height: 100px;
+        background-color: #ffffff;
+}
+.patrat89{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: white;
+    background-image: url(/cheestable/8.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 50px;
+}
+.patrat90{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: #D28C45;
+    background-image: url(/cheestable/turn.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 80px;
+}
+.patrat91{
+    width: 100px;
+    height: 100px;
+    background-color: #FFCE9C;
+    float: left;
+    background-image: url(/cheestable/cal.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 80px;
+}
+.patrat92{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: #D28C45;
+    background-image: url(/cheestable/nebun.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 80px;
+}
+.patrat93{
+    width: 100px;
+    height: 100px;
+    background-color: #FFCE9C;
+    float: left;
+    background-image: url(/cheestable/rege.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 80px;
+}
+.patrat94{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: #D28C45;
+    background-image: url(/cheestable/regina.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 80px;
+}
+.patrat95{
+    width: 100px;
+    height: 100px;
+    background-color: #FFCE9C;
+    float: left;
+    background-image: url(/cheestable/nebun.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 80px;
+}
+.patrat96{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: #D28C45;
+    background-image: url(/cheestable/cal.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 80px;
+}
+.patrat98{
+    width: 100px;
+    height: 100px;
+    background-color: #FFCE9C;
+    float: left;
+    background-image: url(/cheestable/turn.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 80px;
+}
+.patrat99{
+        width: 100px;
+        height: 100px;
+        background-color: #ffffff;
+        float: left;
+    }
+.patrat100{
+        width: 100px;
+        height: 100px;
+        background-color: #ffffff;
+}
